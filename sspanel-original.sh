@@ -66,7 +66,7 @@ echo -e "${Info} 检测安装git、unzip、crontab工具已完成"
 sleep 1
 ##下载解压拷贝源码
 echo -e "${Info} 正在下载解压处理程序源码"
-git clone "https://github.com/mikehjc/sspanel_change2.git"
+git clone "https://github.com/mikehjc/sspanel_change.git"
 cd sspanel_change2
 unzip dev.zip
 cd ss-panel-v3-mod_Uim-dev
